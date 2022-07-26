@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(26, 26, 26)
+    
+    
+}
+
+.container {
+    background-color: rgb(247, 246, 245);
+    font-family: 'Roboto Flex', sans-serif;
+    width: 500px; margin: auto;
+    border-radius: 8px;}
+
+
+#title-post {
+    text-align: left;
+    padding: 2%;
+    margin: 0.5rem
+}
+
+#image {
+    object-fit: fill;
+    overflow: hidden;
+    }
+    #description-post {
+        padding:1rem
+    }
+
+.icons {
+    display:flex
+    }
+
+.icono-heart {
+    margin: 10px 5px 10px 10px 
+}
+
+.icono-comment {
+    margin: 10px 5px 10px 10px 
+}
+
+
+.icono-plane{ 
+    margin: 10px 5px 10px 10px 
+}
+
+
+.icono-save {
+    margin: 10px 5px 10px 380px 
+}
