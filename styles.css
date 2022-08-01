@@ -25,6 +25,14 @@ body {
         padding:1rem
     }
 
+.HTML5 {
+    float:left
+}
+
+.icono-puntos {
+    float:right
+}
+
 .icons {
     display:flex
     }
